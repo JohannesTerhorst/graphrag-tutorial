@@ -33,7 +33,7 @@ windows_ip = subprocess.check_output(
 
 from langchain_community.chat_models import ChatOllama
 llm = ChatOllama(
-    model="qwen2.5:3b",
+    model="qwen2.5:7b",
     base_url=f"http://{windows_ip}:11434",
     temperature=0.0,
     num_predict=512,
@@ -41,25 +41,21 @@ llm = ChatOllama(
 ```
 
 Model: **qwen2.5:3b** (confirmed working in `notebooks/hello_world.ipynb`, ~5 tok/s).
+Model: **qwen2.5:7b** (fits entirely in 8 GB VRAM, ~12 tok/s on RTX 3070).
 Use `temperature=0.0` throughout for deterministic extractions.
 
 ---
 
 ## Dataset
 
-**File**: `data/input/wc2026_trimmed.pdf` (10 pages, ~7,000 tokens)
+**File**: `data/input/wc2022_trimmed.pdf`
 
-Trimmed from the full 2026 FIFA World Cup Wikipedia article
-(`data/input/2026_FIFA_World_Cup_raw.pdf`, 63 pages). Kept:
-
-| Original pages | Content |
-|---|---|
-| 1–4 | Tournament overview, host nations (USA/Canada/Mexico), venues, bidding |
-| 7–12 | Qualification narrative, 48 qualified teams by confederation, group draw, base camps |
-
-Pages 5–6 (pure capacity tables) and 13–63 (match schedule, squad tables, references)
-were dropped because tables produce noise in LLM entity extraction and the full document
-would take ~18 min to process on qwen2.5:3b.
+Trimmed from the full 2022 FIFA World Cup Wikipedia article
+(`data/input/2022_FIFA_World_Cup.pdf`). The 2022 tournament (hosted by Qatar, 32 teams)
+was chosen over 2026 because it is already complete — the Wikipedia article contains
+richer context: match results, top scorers, the champion (Argentina), and player
+performances. This makes entity extraction more meaningful and community summaries
+more interesting to read.
 
 **Expected entity types**: `TEAM`, `NATION`, `STADIUM`, `CITY`, `CONFEDERATION`,
 `COMPETITION`, `PERSON`, `EVENT`
@@ -69,7 +65,7 @@ would take ~18 min to process on qwen2.5:3b.
 ## Pipeline Overview
 
 ```
-wc2026_trimmed.pdf
+wc2022_trimmed.pdf
        │
        ▼  Notebook 00
   Text Chunks (600 tok, 100 overlap)
@@ -78,23 +74,26 @@ wc2026_trimmed.pdf
   Entities + Relationships
        │  Merge by exact name, edge weight = duplicate count (§3.1.3)
        ▼
-  data/graph.json
+  data/output/wc2022_trimmed_graph.json
        │
        ▼  Notebook 01
   Leiden community detection — hierarchical (§3.1.4)
        ▼
-  data/communities.json
+  data/output/wc2022_trimmed_communities.json
        │
        ▼  Notebook 02
   LLM community summaries — structured JSON (§3.1.5, Appendix E.2)
        ▼
-  data/summaries.json
+  data/output/wc2022_trimmed_summaries.json
        │
        ▼  Notebook 03
   Map-Reduce query with helpfulness scoring (§3.1.6, Appendix E.3–E.4)
        ▼
   Global Answer
 ```
+
+Output filenames use the input PDF stem as a prefix so that changing `PDF_PATH`
+in notebook 00 automatically propagates through the entire pipeline.
 
 ---
 
@@ -170,12 +169,12 @@ aggregate descriptions. Build a `networkx.Graph` where:
 - Nodes: entities with attributes `type`, `description`
 - Edges: relationships with attributes `description`, `weight` (= duplicate count)
 
-Save with `networkx.node_link_data` to `data/graph.json`.
+Save with `networkx.node_link_data` to `data/output/wc2022_trimmed_graph.json`.
 
 ### Visualisation
 
 Use `pyvis.network.Network` for an interactive HTML graph. Color nodes by entity type.
-Save to `data/graph.html`.
+Save to `data/output/wc2022_trimmed_graph.html`.
 
 ---
 
@@ -197,7 +196,7 @@ g_ig = ig.Graph.from_networkx(G)
 # Run at two resolution levels to get hierarchy
 partition_c0 = leidenalg.find_partition(g_ig, leidenalg.ModularityVertexPartition)
 partition_c1 = leidenalg.find_partition(g_ig, leidenalg.RBConfigurationVertexPartition,
-                                         resolution_parameter=0.5)
+                                         resolution_parameter=1.5)
 ```
 
 Produce two levels (C0 = root communities, C1 = sub-communities), mirroring Figure 4 of
@@ -205,11 +204,11 @@ the paper.
 
 ### Output
 
-`data/communities.json`:
+`data/output/wc2022_trimmed_communities.json`:
 ```json
 {
-  "C0": { "0": ["FRANCE", "MBAPPE", ...], "1": [...] },
-  "C1": { "0": ["FRANCE", "MBAPPE"], "1": ["GERMANY", "WIRTZ"], ... }
+  "C0": { "0": ["ARGENTINA", "MESSI", ...], "1": [...] },
+  "C1": { "0": ["ARGENTINA", "MESSI"], "1": ["FRANCE", "MBAPPE"], ... }
 }
 ```
 
@@ -261,8 +260,8 @@ Output:
 
 ### Output
 
-`data/summaries.json`: list of community report objects, each with the JSON structure above
-plus a `community_id` field.
+`data/output/wc2022_trimmed_summaries.json`: list of community report objects, each with
+the JSON structure above plus a `community_id` field.
 
 Display each summary in a rendered markdown cell so students can read the discovered themes.
 
@@ -275,7 +274,7 @@ Display each summary in a rendered markdown cell so students can read the discov
 ### Query
 
 Use this example query throughout the notebook:
-> *"What are the main storylines and themes of the 2026 FIFA World Cup?"*
+> *"What are the main storylines and themes of the 2022 FIFA World Cup?"*
 
 This is a global sensemaking question — the kind vector RAG cannot answer well (§1).
 
@@ -360,13 +359,13 @@ graphrag-tutorial/
 ├── requirements.txt
 ├── data/
 │   ├── input/
-│   │   ├── 2026_FIFA_World_Cup_raw.pdf   (63 pages, original)
-│   │   └── wc2026_trimmed.pdf            (10 pages, tutorial input)
-│   └── output/                           (created by notebooks)
-│       ├── graph.json
-│       ├── graph.html
-│       ├── communities.json
-│       └── summaries.json
+│   │   ├── 2022_FIFA_World_Cup.pdf            (full Wikipedia article)
+│   │   └── wc2022_trimmed.pdf                 (trimmed tutorial input)
+│   └── output/                                (created by notebooks)
+│       ├── wc2022_trimmed_graph.json
+│       ├── wc2022_trimmed_graph.html
+│       ├── wc2022_trimmed_communities.json
+│       └── wc2022_trimmed_summaries.json
 └── notebooks/
     ├── hello_world.ipynb                 (Ollama connectivity test)
     ├── 00_graph_construction.ipynb
