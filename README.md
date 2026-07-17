@@ -101,7 +101,6 @@ Notebook 00 propagates through the whole pipeline.
 ```
 graphrag-tutorial/
 ├── README.md                 ← this file
-├── CLAUDE.md                 ← detailed implementation guide (paper section mapping)
 ├── requirements.txt          ← pinned dependencies
 ├── data/
 │   ├── input/
@@ -126,4 +125,4 @@ without waiting for the LLM. Re-running the notebooks overwrites these files.
 - **Runtime.** On an RTX 3070 (`qwen2.5:7b`, ~12 tok/s) a full pipeline run is a few minutes,
   dominated by Notebook 00's per-chunk extraction. CPU-only is slower but works.
 - **Paper faithfulness.** Each design choice is traceable to a section of Edge et al. (2025);
-  see `CLAUDE.md` for the section-by-section mapping.
+  every notebook's markdown cells cite the relevant section (§3.1.1–3.1.6, Appendices A–E).
