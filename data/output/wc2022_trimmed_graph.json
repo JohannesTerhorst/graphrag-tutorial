@@ -5,32 +5,32 @@
   "nodes": [
     {
       "type": "NATION",
-      "description": "Argentine national football team, won the 2022 FIFA World Cup and secured their third title | Argentina is a nation that advanced to the semi-finals of the World Cup and won against Croatia with a score of 3-0 | Argentina won against Mexico but lost to Poland, advancing to the knockout stage with a goal difference of 1. | Argentina is a nation that won the 2022 FIFA World Cup, their third title overall | Argentina is a national football team that won the World Cup in 2022 | Argentina topped Group A with 6 points and advanced to the knockout stage | Argentina is a nation that participated in the tournament with its national team. Lionel Messi was named the best player of the tournament. | Argentina advanced to the semi-finals by beating Croatia in extra time and penalties, but lost to the Netherlands in the final.",
+      "description": "Argentina advanced to the semi-finals by beating Croatia in extra time and penalties, but lost to the Netherlands in the final. | Argentina is a nation that won the 2022 FIFA World Cup, their third title overall | Argentina is a national football team that won the World Cup in 2022 | Argentina topped Group A with 6 points and advanced to the knockout stage | Argentina is a nation that advanced to the semi-finals of the World Cup and won against Croatia with a score of 3-0 | Argentina is a nation that participated in the tournament with its national team. Lionel Messi was named the best player of the tournament. | Argentina won against Mexico but lost to Poland, advancing to the knockout stage with a goal difference of 1. | Argentine national football team, won the 2022 FIFA World Cup and secured their third title",
       "id": "ARGENTINA"
     },
     {
       "type": "NATION",
-      "description": "France is a nation participating in the 2022 FIFA World Cup and is represented by Kylian Mbappé, the captain of their national team | France is a nation that reached the final of the 2022 FIFA World Cup and lost on penalties to Argentina in the final | France is a nation that qualified for the knockout stage of the World Cup and won against Australia with four goals. | France is a defending champion who reached their second consecutive World Cup semi-final and defeated Morocco 2-0 in the semi-finals | France is a national football team that lost their opening game but went on to win the 2022 World Cup | French national football team, achieved a second World Cup victory after 20 years | France is a nation that has won the tournament since 2002. It also hosts the French national team and is part of UEFA.",
+      "description": "France is a defending champion who reached their second consecutive World Cup semi-final and defeated Morocco 2-0 in the semi-finals | France is a nation that reached the final of the 2022 FIFA World Cup and lost on penalties to Argentina in the final | France is a nation that has won the tournament since 2002. It also hosts the French national team and is part of UEFA. | France is a national football team that lost their opening game but went on to win the 2022 World Cup | France is a nation that qualified for the knockout stage of the World Cup and won against Australia with four goals. | French national football team, achieved a second World Cup victory after 20 years | France is a nation participating in the 2022 FIFA World Cup and is represented by Kylian Mbappé, the captain of their national team",
       "id": "FRANCE"
     },
     {
       "type": "NATION",
-      "description": "Qatar hosted the 2022 FIFA World Cup, their first time hosting the event | Host nation of the 2022 FIFA World Cup and a Middle Eastern country known for its oil wealth and modern infrastructure | Qatar is a country that hosted the 2022 FIFA World Cup and has faced criticism regarding labor practices. | Qatar is a country that hosted the 2022 FIFA World Cup, being the first Arab nation to do so. | Qatar is a country that hosted the 2022 FIFA World Cup. It faced criticism over its treatment of migrant workers and women, as well as concerns about climate conditions and scheduling changes. | Qatar is hosting the 2022 FIFA World Cup and has no LGBTQ rights, with homosexuality criminalised | Qatar is a nation hosting the 2022 FIFA World Cup, known for its restrictions on LGBTQ+ rights and limited freedoms for women | Qatar is the host nation of the 2022 FIFA World Cup and entered the event as their national team | Qatar is a country that successfully bid to host the 2022 World Cup but has faced scrutiny over human rights issues and allegations of corruption. | Al Bayt Stadium, Al Khor hosted matches of Group A and was one of the venues for the 2022 FIFA World Cup | Qatar is a country that hosted the 2022 FIFA World Cup and faces criticism regarding women's rights. | Qatar hosted the 2022 FIFA World Cup and was eliminated in the group stage. It is a nation that competed in the tournament. | Qatar hosted the 2022 FIFA World Cup and implemented measures for alcohol consumption and fan safety | Qatar is a country that hosted the 2022 FIFA World Cup and was involved in bidding processes for the tournament | Qatar is a country that successfully bid for and hosted the 2022 FIFA World Cup, facing criticism over various issues including security incidents and allegations of corruption. | Qatar is a country that successfully bid for and will host the 2022 FIFA World Cup | Qatar organized the 2026 World Cup and faced criticism for banning kosher food and public prayer services for Jewish tourists.> | Qatar is a country that bid to host the 2022 FIFA World Cup and won, with significant investments in infrastructure including stadiums. | Qatar hosted the FIFA World Cup and aimed to comply with the Global Sustainability Assessment System (GSAS) for all World Cup stadiums. Seven out of eight stadiums were built or renovated, with Al Khor being an exception.",
+      "description": "Qatar is a country that hosted the 2022 FIFA World Cup. It faced criticism over its treatment of migrant workers and women, as well as concerns about climate conditions and scheduling changes. | Qatar hosted the 2022 FIFA World Cup and implemented measures for alcohol consumption and fan safety | Qatar is the host nation of the 2022 FIFA World Cup and entered the event as their national team | Qatar hosted the 2022 FIFA World Cup, their first time hosting the event | Host nation of the 2022 FIFA World Cup and a Middle Eastern country known for its oil wealth and modern infrastructure | Qatar hosted the FIFA World Cup and aimed to comply with the Global Sustainability Assessment System (GSAS) for all World Cup stadiums. Seven out of eight stadiums were built or renovated, with Al Khor being an exception. | Qatar is a country that successfully bid to host the 2022 World Cup but has faced scrutiny over human rights issues and allegations of corruption. | Qatar is a country that hosted the 2022 FIFA World Cup and has faced criticism regarding labor practices. | Qatar is hosting the 2022 FIFA World Cup and has no LGBTQ rights, with homosexuality criminalised | Al Bayt Stadium, Al Khor hosted matches of Group A and was one of the venues for the 2022 FIFA World Cup | Qatar hosted the 2022 FIFA World Cup and was eliminated in the group stage. It is a nation that competed in the tournament. | Qatar is a country that successfully bid for and will host the 2022 FIFA World Cup | Qatar is a country that bid to host the 2022 FIFA World Cup and won, with significant investments in infrastructure including stadiums. | Qatar is a nation hosting the 2022 FIFA World Cup, known for its restrictions on LGBTQ+ rights and limited freedoms for women | Qatar is a country that successfully bid for and hosted the 2022 FIFA World Cup, facing criticism over various issues including security incidents and allegations of corruption. | Qatar is a country that hosted the 2022 FIFA World Cup, being the first Arab nation to do so. | Qatar is a country that hosted the 2022 FIFA World Cup and was involved in bidding processes for the tournament | Qatar is a country that hosted the 2022 FIFA World Cup and faces criticism regarding women's rights. | Qatar organized the 2026 World Cup and faced criticism for banning kosher food and public prayer services for Jewish tourists.>",
       "id": "QATAR"
     },
     {
       "type": "NATION",
-      "description": "Croatian national football team, defeated Morocco 2-1 in a match that finished 0-0 in their opening game | Croatia was defeated by Argentina 1-3 in the quarter-finals and did not advance further | Croatia was eliminated from the tournament after losing to Argentina in the quarter-finals via a penalty shootout. | Croatia is a team that played in the group stage and was eliminated by Morocco | Croatia is a team that lost to France in the 2018 FIFA World Cup Final, defending champions of the tournament. | Croatia finished third in the 2022 FIFA World Cup",
+      "description": "Croatia is a team that played in the group stage and was eliminated by Morocco | Croatia was defeated by Argentina 1-3 in the quarter-finals and did not advance further | Croatia is a team that lost to France in the 2018 FIFA World Cup Final, defending champions of the tournament. | Croatian national football team, defeated Morocco 2-1 in a match that finished 0-0 in their opening game | Croatia finished third in the 2022 FIFA World Cup | Croatia was eliminated from the tournament after losing to Argentina in the quarter-finals via a penalty shootout.",
       "id": "CROATIA"
     },
     {
       "type": "NATION",
-      "description": "Morocco became the first African nation to reach the semi-final of a World Cup, losing to France in the quarter-finals | Morocco became the first African and Arab nation to advance to the semi-finals of the World Cup, but lost to France 2-0 | Moroccan national football team, secured fourth place and the best World Cup finish for an African or Arab nation | Morocco is a team that qualified for the tournament and played against Croatia, Belgium, and Canada",
+      "description": "Morocco became the first African and Arab nation to advance to the semi-finals of the World Cup, but lost to France 2-0 | Morocco is a team that qualified for the tournament and played against Croatia, Belgium, and Canada | Moroccan national football team, secured fourth place and the best World Cup finish for an African or Arab nation | Morocco became the first African nation to reach the semi-final of a World Cup, losing to France in the quarter-finals",
       "id": "MOROCCO"
     },
     {
       "type": "NATION",
-      "description": "A country within the United Kingdom that played against Iran in the 2022 FIFA World Cup | England lost to France 1-2 in the quarter-finals, with Harry Kane scoring a penalty | England received the Fair Play award at the 2022 FIFA World Cup | England is a team that advanced to the knockout stage after winning their group in the 2022 FIFA World Cup | England is a team that qualified for the knockout stage with 7 points",
+      "description": "England lost to France 1-2 in the quarter-finals, with Harry Kane scoring a penalty | England received the Fair Play award at the 2022 FIFA World Cup | England is a team that advanced to the knockout stage after winning their group in the 2022 FIFA World Cup | A country within the United Kingdom that played against Iran in the 2022 FIFA World Cup | England is a team that qualified for the knockout stage with 7 points",
       "id": "ENGLAND"
     },
     {
@@ -40,12 +40,12 @@
     },
     {
       "type": "PERSON",
-      "description": "Argentine professional footballer who scored two goals in the final against France | Lionel Messi is an Argentine player and was named the Best Player of the 2022 FIFA World Cup",
+      "description": "Lionel Messi is an Argentine player and was named the Best Player of the 2022 FIFA World Cup | Argentine professional footballer who scored two goals in the final against France",
       "id": "LIONEL MESSI"
     },
     {
       "type": "PERSON",
-      "description": "Enzo Fernández, another teammate of Kylian Mbappé on the French national team, won the Young Player Award for being the best young player in the tournament. | Enzo Fernández, a young player from Argentina, won the Best Young Player award at the 2022 FIFA World Cup",
+      "description": "Enzo Fernández, a young player from Argentina, won the Best Young Player award at the 2022 FIFA World Cup | Enzo Fernández, another teammate of Kylian Mbappé on the French national team, won the Young Player Award for being the best young player in the tournament.",
       "id": "ENZO FERNÁNDEZ"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "type": "COMPETITION",
-      "description": "A specific edition of the World Cup held in Qatar in 2022 with unique rules and prize structures | The 2022 FIFA World Cup is an international football tournament held in Qatar | The 22nd FIFA World Cup held in Qatar, where various controversies and incidents occurred | The 2022 FIFA World Cup was a quadrennial world championship for national football teams organised by FIFA, held in Qatar from November 20 to December 18, 2022",
+      "description": "The 2022 FIFA World Cup was a quadrennial world championship for national football teams organised by FIFA, held in Qatar from November 20 to December 18, 2022 | A specific edition of the World Cup held in Qatar in 2022 with unique rules and prize structures | The 2022 FIFA World Cup is an international football tournament held in Qatar | The 22nd FIFA World Cup held in Qatar, where various controversies and incidents occurred",
       "id": "2022 FIFA WORLD CUP"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "type": "COMPETITION",
-      "description": "FIFA is the organizer of the FIFA World Cup and approved a smaller number of stadiums due to growing costs in Qatar. By 2017, FIFA had yet to finalize the number of stadiums required for the tournament. | Federation Internationale de Football Association organizes and manages international football competitions including the World Cup | Fedration Internationale de Football Association, organiser of the World Cup | Federation Internationale de Football Association, organiser of the FIFA World Cup and other sporting events | Federation Internationale de Football Association, organiser of the World Cup tournament | Federation Internationale de Football Association organises and manages the FIFA World Cup, which is held every four years between national football teams. | Federation Internationale de Football Association organises and manages international football competitions including the World Cup | Federation Internationale de Football Association, organiser of the World Cup and other international football competitions | Fédération Internationale de Football Association, organiser of the World Cup | The Federation Internationale de Football Association organizes the FIFA World Cup and was involved in selecting the hosts of both the 2018 and 2022 tournaments. | Federation Internationale de Football Association, organiser of various football competitions including the World Cup | The international governing body of football, responsible for organizing major tournaments like the World Cup.",
+      "description": "Federation Internationale de Football Association, organiser of the FIFA World Cup and other sporting events | The international governing body of football, responsible for organizing major tournaments like the World Cup. | Fédération Internationale de Football Association, organiser of the World Cup | Federation Internationale de Football Association, organiser of various football competitions including the World Cup | Fedration Internationale de Football Association, organiser of the World Cup | Federation Internationale de Football Association, organiser of the World Cup tournament | Federation Internationale de Football Association, organiser of the World Cup and other international football competitions | Federation Internationale de Football Association organises and manages international football competitions including the World Cup | The Federation Internationale de Football Association organizes the FIFA World Cup and was involved in selecting the hosts of both the 2018 and 2022 tournaments. | Federation Internationale de Football Association organises and manages the FIFA World Cup, which is held every four years between national football teams. | Federation Internationale de Football Association organizes and manages international football competitions including the World Cup | FIFA is the organizer of the FIFA World Cup and approved a smaller number of stadiums due to growing costs in Qatar. By 2017, FIFA had yet to finalize the number of stadiums required for the tournament.",
       "id": "FIFA"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "type": "TEAM",
-      "description": "Brazil is a team that advanced to the knockout stage of Group F | Brazil also reached the semi-finals but lost to France, and their match against Croatia went into extra time and penalties. | Brazil is a team that advanced to the knockout stage and won against Serbia with Richarlison scoring two goals | Brazil is a nation and football powerhouse with a rich history in the World Cup, though not mentioned as participating in this specific event.",
+      "description": "Brazil also reached the semi-finals but lost to France, and their match against Croatia went into extra time and penalties. | Brazil is a team that advanced to the knockout stage of Group F | Brazil is a nation and football powerhouse with a rich history in the World Cup, though not mentioned as participating in this specific event. | Brazil is a team that advanced to the knockout stage and won against Serbia with Richarlison scoring two goals",
       "id": "BRAZIL"
     },
     {
@@ -100,27 +100,27 @@
     },
     {
       "type": "STADIUM",
-      "description": "Al Bayt Stadium is located in Al Khor and was used for one of the matches between Belgium and Canada | Al Bayt Stadium was used for the match between France and Morocco with an attendance of 68,294 | Located in Al Khor, this stadium hosted the England vs. United States match | Al Bayt Stadium is one of the venues used for the 2022 FIFA World Cup in Qatar. | Al Khor, Qatar based stadium that hosted a match for third place | Al Bayt Stadium is an indoor stadium built for the World Cup with a seating capacity of 68,000. Its upper tiers will be disassembled after the tournament and donated to countries with less developed sports infrastructure. | Al Bayt Stadium is one of the stadiums that will be moderately or heavily modified after the tournament to reduce its capacity by half, used for the 2022 World Cup.",
+      "description": "Al Bayt Stadium is one of the venues used for the 2022 FIFA World Cup in Qatar. | Al Bayt Stadium was used for the match between France and Morocco with an attendance of 68,294 | Al Bayt Stadium is one of the stadiums that will be moderately or heavily modified after the tournament to reduce its capacity by half, used for the 2022 World Cup. | Al Bayt Stadium is an indoor stadium built for the World Cup with a seating capacity of 68,000. Its upper tiers will be disassembled after the tournament and donated to countries with less developed sports infrastructure. | Located in Al Khor, this stadium hosted the England vs. United States match | Al Khor, Qatar based stadium that hosted a match for third place | Al Bayt Stadium is located in Al Khor and was used for one of the matches between Belgium and Canada",
       "id": "AL BAYT STADIUM"
     },
     {
       "type": "STADIUM",
-      "description": "Located in Al Rayyan, Qatar, this stadium hosted matches between Japan and Costa Rica, and Germany and Japan | Stadium in Al Rayyan, Qatar where the final was played | Located in Al Rayyan, this stadium hosted matches between England and Iran | Khalifa International Stadium also served as a venue for the 2022 FIFA World Cup in Qatar. | Khalifa International Stadium is located in Al Rayyan and hosted the match between Croatia and Canada | Khalifa International Stadium was heavily renovated for the tournament and is the largest stadium in the country at the time of its renovation. | Khalifa International Stadium in Al Rayyan hosted multiple matches of the 2022 FIFA World Cup, including those from Group B | Khalifa International Stadium is a largely unmodified stadium in Doha, used for the 2022 World Cup. It was not dismantled or heavily modified post-tournament.",
+      "description": "Khalifa International Stadium is a largely unmodified stadium in Doha, used for the 2022 World Cup. It was not dismantled or heavily modified post-tournament. | Khalifa International Stadium also served as a venue for the 2022 FIFA World Cup in Qatar. | Located in Al Rayyan, this stadium hosted matches between England and Iran | Located in Al Rayyan, Qatar, this stadium hosted matches between Japan and Costa Rica, and Germany and Japan | Stadium in Al Rayyan, Qatar where the final was played | Khalifa International Stadium was heavily renovated for the tournament and is the largest stadium in the country at the time of its renovation. | Khalifa International Stadium in Al Rayyan hosted multiple matches of the 2022 FIFA World Cup, including those from Group B | Khalifa International Stadium is located in Al Rayyan and hosted the match between Croatia and Canada",
       "id": "KHALIFA INTERNATIONAL STADIUM"
     },
     {
       "type": "STADIUM",
-      "description": "Al Thumama Stadium was another stadium used during the 2022 FIFA World Cup in Qatar. | Al Thumama Stadium was the venue for the match between England and France with an attendance of 68,895 | Situated in Doha, it was where the Iran vs. United States game took place | Al Thumama Stadium is a new stadium in Doha, commissioned in May 2017 and completed in 2024. It was used for the 2021 FIFA Arab Cup but may not be dismantled after the tournament. | Al Thumama Stadium is located in Doha and was used for the match between Belgium and Morocco | Al Thumama Stadium in Doha served as a venue for several matches during the 2022 FIFA World Cup, including Group A games",
+      "description": "Al Thumama Stadium is a new stadium in Doha, commissioned in May 2017 and completed in 2024. It was used for the 2021 FIFA Arab Cup but may not be dismantled after the tournament. | Al Thumama Stadium was the venue for the match between England and France with an attendance of 68,895 | Situated in Doha, it was where the Iran vs. United States game took place | Al Thumama Stadium was another stadium used during the 2022 FIFA World Cup in Qatar. | Al Thumama Stadium is located in Doha and was used for the match between Belgium and Morocco | Al Thumama Stadium in Doha served as a venue for several matches during the 2022 FIFA World Cup, including Group A games",
       "id": "AL THUMAMA STADIUM"
     },
     {
       "type": "STADIUM",
-      "description": "Ahmad bin Ali Stadium is located in Al Rayyan and hosted two matches: Belgium vs. Canada and Croatia vs. Canada | Situated in Al Rayyan, it was the venue for the match between United States and Wales | Ahmad bin Ali Stadium is one of the stadiums that will be moderately or heavily modified after the tournament to reduce its capacity by half, used for the 2022 World Cup. | Ahmad bin Ali Stadium hosted matches for the 2022 FIFA World Cup in Qatar.",
+      "description": "Situated in Al Rayyan, it was the venue for the match between United States and Wales | Ahmad bin Ali Stadium is one of the stadiums that will be moderately or heavily modified after the tournament to reduce its capacity by half, used for the 2022 World Cup. | Ahmad bin Ali Stadium is located in Al Rayyan and hosted two matches: Belgium vs. Canada and Croatia vs. Canada | Ahmad bin Ali Stadium hosted matches for the 2022 FIFA World Cup in Qatar.",
       "id": "AHMAD BIN ALI STADIUM"
     },
     {
       "type": "STADIUM",
-      "description": "Lusail Stadium hosted matches in the quarter-finals including Argentina vs Croatia and France vs Morocco | Lusail Stadium was used as the venue for the final match of the 2022 FIFA World Cup in Qatar, held on National Day. | Lusail Stadium is a new stadium built for the World Cup and completed in November 2021. | Lusail Stadium hosted matches for teams including Switzerland, Brazil, and Cameroon | Stadium in Lusail, Qatar where the match between France and Morocco was played | The venue for Argentina's match against Saudi Arabia on 22 November 2022 | Lusail Stadium is one of the stadiums that will be moderately or heavily modified after the tournament to reduce its capacity by half, used for the 2022 World Cup. | Lusail Stadium hosted the match between Portugal and Uruguay in the knockout stage of the tournament. | The main stadium for the final match of the 2022 FIFA World Cup, one of eight new stadiums built specifically for the event | Lusail Stadium hosted matches between Argentina and Saudi Arabia, Poland and Saudi Arabia, and France and Mexico.",
+      "description": "The main stadium for the final match of the 2022 FIFA World Cup, one of eight new stadiums built specifically for the event | Stadium in Lusail, Qatar where the match between France and Morocco was played | Lusail Stadium is one of the stadiums that will be moderately or heavily modified after the tournament to reduce its capacity by half, used for the 2022 World Cup. | The venue for Argentina's match against Saudi Arabia on 22 November 2022 | Lusail Stadium hosted matches for teams including Switzerland, Brazil, and Cameroon | Lusail Stadium hosted matches in the quarter-finals including Argentina vs Croatia and France vs Morocco | Lusail Stadium is a new stadium built for the World Cup and completed in November 2021. | Lusail Stadium hosted the match between Portugal and Uruguay in the knockout stage of the tournament. | Lusail Stadium hosted matches between Argentina and Saudi Arabia, Poland and Saudi Arabia, and France and Mexico. | Lusail Stadium was used as the venue for the final match of the 2022 FIFA World Cup in Qatar, held on National Day.",
       "id": "LUSAIL STADIUM"
     },
     {
@@ -130,12 +130,12 @@
     },
     {
       "type": "STADIUM",
-      "description": "Education City Stadium was a venue for some matches during the 2022 FIFA World Cup in Qatar. | Education City Stadium hosted a match between Morocco and Portugal with an attendance of 44,198 | Education City Stadium is a venue where several matches took place during the tournament, including Uruguay vs South Korea and Portugal vs Ghana. | Education City Stadium is one of the stadiums that will be moderately or heavily modified after the tournament to reduce its capacity by half, used for the 2022 World Cup.",
+      "description": "Education City Stadium hosted a match between Morocco and Portugal with an attendance of 44,198 | Education City Stadium was a venue for some matches during the 2022 FIFA World Cup in Qatar. | Education City Stadium is one of the stadiums that will be moderately or heavily modified after the tournament to reduce its capacity by half, used for the 2022 World Cup. | Education City Stadium is a venue where several matches took place during the tournament, including Uruguay vs South Korea and Portugal vs Ghana.",
       "id": "EDUCATION CITY STADIUM"
     },
     {
       "type": "STADIUM",
-      "description": "Al Janoub Stadium was used for a match involving Ghana and Uruguay, which Uruguay won 2-0. | Al Janoub Stadium hosted matches for teams including Cameroon, Serbia, and Brazil | Al Janoub Stadium hosted matches for the 2022 FIFA World Cup in Qatar. | Al Janoub Stadium is a new stadium in Al Wakrah, completed on 16 May 2019. It was used for the 2021 FIFA Arab Cup and will be modified after the tournament.",
+      "description": "Al Janoub Stadium hosted matches for the 2022 FIFA World Cup in Qatar. | Al Janoub Stadium is a new stadium in Al Wakrah, completed on 16 May 2019. It was used for the 2021 FIFA Arab Cup and will be modified after the tournament. | Al Janoub Stadium was used for a match involving Ghana and Uruguay, which Uruguay won 2-0. | Al Janoub Stadium hosted matches for teams including Cameroon, Serbia, and Brazil",
       "id": "AL JANOUB STADIUM"
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "type": "COMPETITION",
-      "description": "The 2026 FIFA World Cup took place in Qatar, where various incidents involving political and religious tensions occurred among fans and officials.> | The premier international football tournament held every four years, featuring national teams from around the world",
+      "description": "The premier international football tournament held every four years, featuring national teams from around the world | The 2026 FIFA World Cup took place in Qatar, where various incidents involving political and religious tensions occurred among fans and officials.>",
       "id": "WORLD CUP"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "type": "NATION",
-      "description": "Iran played against United States in the 2022 FIFA World Cup but did not participate in Group A matches. | A country with anti-government protests, whose government faces criticism for suppressing such protests at the 2022 FIFA World Cup. | Iran is a team that participated in Group B of the 2022 FIFA World Cup and was eliminated from the tournament | Iran is a country that hosted protests against its Islamic government during the 2026 World Cup, with fans displaying slogans like \"Woman, Life, Freedom\".> | An Asian nation with a national football team that participated in the 2022 FIFA World Cup and faced England in their opening match | Iran finished third in Group B with 3 points and was eliminated from the tournament",
+      "description": "A country with anti-government protests, whose government faces criticism for suppressing such protests at the 2022 FIFA World Cup. | Iran is a team that participated in Group B of the 2022 FIFA World Cup and was eliminated from the tournament | An Asian nation with a national football team that participated in the 2022 FIFA World Cup and faced England in their opening match | Iran finished third in Group B with 3 points and was eliminated from the tournament | Iran is a country that hosted protests against its Islamic government during the 2026 World Cup, with fans displaying slogans like \"Woman, Life, Freedom\".> | Iran played against United States in the 2022 FIFA World Cup but did not participate in Group A matches.",
       "id": "IRAN"
     },
     {
@@ -180,12 +180,12 @@
     },
     {
       "type": "CONFEDERATION",
-      "description": "Union of European Football Associations, which guaranteed to host the 2018 FIFA World Cup and thus was not in contention for 2022 | UEFA, the Union of European Football Associations, guaranteed to host the 2018 FIFA World Cup and thus were no longer in contention for hosting the 2022 event.",
+      "description": "UEFA, the Union of European Football Associations, guaranteed to host the 2018 FIFA World Cup and thus were no longer in contention for hosting the 2022 event. | Union of European Football Associations, which guaranteed to host the 2018 FIFA World Cup and thus was not in contention for 2022",
       "id": "UEFA"
     },
     {
       "type": "NATION",
-      "description": "Mexico drew against Poland and lost to Argentina, finishing third in Group D. | A country that initially bid for hosting rights to the 2018 FIFA World Cup but withdrew from proceedings | Mexico finished third in Group A with 4 points, securing a spot in the round of 16",
+      "description": "Mexico finished third in Group A with 4 points, securing a spot in the round of 16 | Mexico drew against Poland and lost to Argentina, finishing third in Group D. | A country that initially bid for hosting rights to the 2018 FIFA World Cup but withdrew from proceedings",
       "id": "MEXICO"
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "type": "NATION",
-      "description": "The United States was one of the bidders for hosting the 2022 FIFA World Cup but did not win the bid. | United States participated in the 2022 FIFA World Cup and was eliminated in the group stage. It did not play in Group A matches. | The United States is a team that qualified for the round of 16 after defeating Iran and drawing with England in Group B | The United States secured their place in the round of 16 with 5 points",
+      "description": "The United States was one of the bidders for hosting the 2022 FIFA World Cup but did not win the bid. | The United States is a team that qualified for the round of 16 after defeating Iran and drawing with England in Group B | The United States secured their place in the round of 16 with 5 points | United States participated in the 2022 FIFA World Cup and was eliminated in the group stage. It did not play in Group A matches.",
       "id": "UNITED STATES"
     },
     {
@@ -205,7 +205,7 @@
     },
     {
       "type": "NATION",
-      "description": "Japan participated in bidding for hosting the 2022 FIFA World Cup but withdrew its bid before the final vote. | Japan secured first place in Group E by defeating Spain and Germany, advancing to the knockout stage of the 2022 FIFA World Cup | Japan was a bidder for hosting the 2022 FIFA World Cup but withdrew its bid before the final vote.",
+      "description": "Japan was a bidder for hosting the 2022 FIFA World Cup but withdrew its bid before the final vote. | Japan secured first place in Group E by defeating Spain and Germany, advancing to the knockout stage of the 2022 FIFA World Cup | Japan participated in bidding for hosting the 2022 FIFA World Cup but withdrew its bid before the final vote.",
       "id": "JAPAN"
     },
     {
@@ -270,12 +270,12 @@
     },
     {
       "type": "NATION",
-      "description": "Senegal is a team that qualified for the knockout round of Group A in the 2022 FIFA World Cup | Senegal participated in the 2022 FIFA World Cup and qualified as runners-up of Group A after defeating Ecuador in the final match of the group stage.",
+      "description": "Senegal participated in the 2022 FIFA World Cup and qualified as runners-up of Group A after defeating Ecuador in the final match of the group stage. | Senegal is a team that qualified for the knockout round of Group A in the 2022 FIFA World Cup",
       "id": "SENEGAL"
     },
     {
       "type": "NATION",
-      "description": "Ecuador participated in the 2022 FIFA World Cup and was eliminated in the group stage. It lost to Senegal in the final match of the group stage. | Ecuador is a team that played against Senegal and also qualified for the knockout round of Group A in the 2022 FIFA World Cup",
+      "description": "Ecuador is a team that played against Senegal and also qualified for the knockout round of Group A in the 2022 FIFA World Cup | Ecuador participated in the 2022 FIFA World Cup and was eliminated in the group stage. It lost to Senegal in the final match of the group stage.",
       "id": "ECUADOR"
     },
     {
@@ -285,12 +285,12 @@
     },
     {
       "type": "GROUP",
-      "description": "A group comprising England, United States, Wales, Iran, Argentina, Poland, Mexico, and Saudi Arabia for the initial round matches | Group A was one of the groups in the 2022 FIFA World Cup where teams competed for qualification to the knockout stage",
+      "description": "Group A was one of the groups in the 2022 FIFA World Cup where teams competed for qualification to the knockout stage | A group comprising England, United States, Wales, Iran, Argentina, Poland, Mexico, and Saudi Arabia for the initial round matches",
       "id": "GROUP A"
     },
     {
       "type": "GROUP",
-      "description": "A group consisting of Argentina, Mexico, Poland, and Saudi Arabia for the knockout stage qualification | Group B was another group in the 2022 FIFA World Cup, distinct from Group A, with its own set of teams and matches",
+      "description": "Group B was another group in the 2022 FIFA World Cup, distinct from Group A, with its own set of teams and matches | A group consisting of Argentina, Mexico, Poland, and Saudi Arabia for the knockout stage qualification",
       "id": "GROUP B"
     },
     {
@@ -300,7 +300,7 @@
     },
     {
       "type": "TEAM",
-      "description": "Poland qualified for the knockout stage on goal difference despite only having 4 points | Poland extended the boycott on 26 February to any qualifying games against Russia | Poland defeated Saudi Arabia and Argentina in Group D, securing their place in the knockout round as runners-up.",
+      "description": "Poland extended the boycott on 26 February to any qualifying games against Russia | Poland defeated Saudi Arabia and Argentina in Group D, securing their place in the knockout round as runners-up. | Poland qualified for the knockout stage on goal difference despite only having 4 points",
       "id": "POLAND"
     },
     {
@@ -405,12 +405,12 @@
     },
     {
       "type": "PERSON",
-      "description": "Neymar is a player for Brazil who scored in the quarter-final match against Croatia during extra time. | Neymar is a star player for Brazil and received an ankle injury during the match against Serbia",
+      "description": "Neymar is a star player for Brazil and received an ankle injury during the match against Serbia | Neymar is a player for Brazil who scored in the quarter-final match against Croatia during extra time.",
       "id": "NEYMAR"
     },
     {
       "type": "TEAM",
-      "description": "Cameroon is a team that finished in fourth place and was eliminated from the tournament | Cameroon played in the group stage, scored goals through Jean-Charles Castelletto, Vincent Aboubakar, and Eric Maxim Choupo-Moting, but did not qualify for the knockout stage",
+      "description": "Cameroon played in the group stage, scored goals through Jean-Charles Castelletto, Vincent Aboubakar, and Eric Maxim Choupo-Moting, but did not qualify for the knockout stage | Cameroon is a team that finished in fourth place and was eliminated from the tournament",
       "id": "CAMEROON"
     },
     {
@@ -445,12 +445,12 @@
     },
     {
       "type": "TEAM",
-      "description": "Serbia did not qualify for the knockout stage after losing their final group game to Brazil 1–0 | Serbia is a team that finished third in Group F and was eliminated from the tournament",
+      "description": "Serbia is a team that finished third in Group F and was eliminated from the tournament | Serbia did not qualify for the knockout stage after losing their final group game to Brazil 1–0",
       "id": "SERBIA"
     },
     {
       "type": "TEAM",
-      "description": "Portugal was defeated by Morocco 1-0 in the quarter-finals | Portugal advanced to the knockout stage after finishing first in their group with 6 points, 2 more than Uruguay. | Portugal is a team that advanced to the knockout stage of the tournament",
+      "description": "Portugal advanced to the knockout stage after finishing first in their group with 6 points, 2 more than Uruguay. | Portugal is a team that advanced to the knockout stage of the tournament | Portugal was defeated by Morocco 1-0 in the quarter-finals",
       "id": "PORTUGAL"
     },
     {
@@ -545,7 +545,7 @@
     },
     {
       "type": "PERSON",
-      "description": "Former media officer for the Qatar bid team who claimed that corruption allegations would result in Qatar not hosting the World Cup | Former media officer for Qatar's 2022 World Cup bid, who alleged that three African football officials were offered bribes to support Qatar's bid in a Netflix documentary series \"FIFA Uncovered\".",
+      "description": "Former media officer for Qatar's 2022 World Cup bid, who alleged that three African football officials were offered bribes to support Qatar's bid in a Netflix documentary series \"FIFA Uncovered\". | Former media officer for the Qatar bid team who claimed that corruption allegations would result in Qatar not hosting the World Cup",
       "id": "PHAEDRA ALMAJID"
     },
     {
@@ -600,7 +600,7 @@
     },
     {
       "type": "MEDIA_OUTLET",
-      "description": "A British newspaper that published an article on labor conditions for workers building infrastructure for the 2022 World Cup. | A British newspaper that published an article surveying workers on their experiences and conditions working on infrastructure for the 2022 World Cup in Qatar.",
+      "description": "A British newspaper that published an article surveying workers on their experiences and conditions working on infrastructure for the 2022 World Cup in Qatar. | A British newspaper that published an article on labor conditions for workers building infrastructure for the 2022 World Cup.",
       "id": "THE GUARDIAN"
     },
     {
@@ -901,7 +901,7 @@
   ],
   "edges": [
     {
-      "description": "France defeated Argentina 2–0 in the group stage. | Argentina defeated France in the final of the 2022 FIFA World Cup, winning on penalties after a 3-3 draw | Argentina defeated France in the semi-finals of the 2022 World Cup | Argentina defeated France in the final of the 2022 FIFA World Cup | Argentina defeated France 3-2 in the semi-finals but France won the final | France and Argentina competed against each other in the tournament.",
+      "description": "Argentina defeated France in the semi-finals of the 2022 World Cup | Argentina defeated France in the final of the 2022 FIFA World Cup | Argentina defeated France in the final of the 2022 FIFA World Cup, winning on penalties after a 3-3 draw | France defeated Argentina 2–0 in the group stage. | France and Argentina competed against each other in the tournament. | Argentina defeated France 3-2 in the semi-finals but France won the final",
       "weight": 8,
       "source": "ARGENTINA",
       "target": "FRANCE"
@@ -979,13 +979,13 @@
       "target": "MOROCCO"
     },
     {
-      "description": "Argentina participated and won the 2022 FIFA World Cup | Argentina won the 2022 FIFA World Cup after defeating France in a penalty shootout",
+      "description": "Argentina won the 2022 FIFA World Cup after defeating France in a penalty shootout | Argentina participated and won the 2022 FIFA World Cup",
       "weight": 2,
       "source": "ARGENTINA",
       "target": "FIFA_WORLD_CUP_2022"
     },
     {
-      "description": "Argentina played against France, a team from Qatar's host nation, in the 2022 World Cup | Qatar hosted the 2022 FIFA World Cup where Argentina won, marking their third World Cup win",
+      "description": "Qatar hosted the 2022 FIFA World Cup where Argentina won, marking their third World Cup win | Argentina played against France, a team from Qatar's host nation, in the 2022 World Cup",
       "weight": 2,
       "source": "ARGENTINA",
       "target": "QATAR"
@@ -1009,7 +1009,7 @@
       "target": "NATION"
     },
     {
-      "description": "Mbappé plays for the French national team | Kylian Mbappé scored a brace as France defeated Denmark 2–1, securing their place in the knockout round.",
+      "description": "Kylian Mbappé scored a brace as France defeated Denmark 2–1, securing their place in the knockout round. | Mbappé plays for the French national team",
       "weight": 2,
       "source": "FRANCE",
       "target": "KYLIAN MBAPPÉ"
@@ -1099,49 +1099,49 @@
       "target": "FIFA_WORLD_CUP_2022"
     },
     {
-      "description": "Qatar hosted the 2022 World Cup, where controversies related to LGBTQ+ and women's rights emerged | Qatar hosts and organises this edition of the World Cup | Qatar hosted and participated as the host nation in the 2022 FIFA World Cup",
+      "description": "Qatar hosted and participated as the host nation in the 2022 FIFA World Cup | Qatar hosted the 2022 World Cup, where controversies related to LGBTQ+ and women's rights emerged | Qatar hosts and organises this edition of the World Cup",
       "weight": 4,
       "source": "QATAR",
       "target": "2022 FIFA WORLD CUP"
     },
     {
-      "description": "The 2022 FIFA World Cup was held in various cities across Qatar | Qatar hosted the 2022 FIFA World Cup, their first time hosting the event | The 2022 FIFA World Cup was held in various cities across Qatar, including Doha and Lusail. | The 2022 FIFA World Cup was held across five host cities in Qatar",
+      "description": "The 2022 FIFA World Cup was held across five host cities in Qatar | The 2022 FIFA World Cup was held in various cities across Qatar | The 2022 FIFA World Cup was held in various cities across Qatar, including Doha and Lusail. | Qatar hosted the 2022 FIFA World Cup, their first time hosting the event",
       "weight": 5,
       "source": "QATAR",
       "target": "CITY"
     },
     {
-      "description": "Qatar hosted the 2022 FIFA World Cup, their first time hosting the event | Qatar is a country that hosted the 2022 FIFA World Cup and faced criticism over various issues such as worker rights and climate conditions.",
+      "description": "Qatar is a country that hosted the 2022 FIFA World Cup and faced criticism over various issues such as worker rights and climate conditions. | Qatar hosted the 2022 FIFA World Cup, their first time hosting the event",
       "weight": 2,
       "source": "QATAR",
       "target": "NATION"
     },
     {
-      "description": "FIFA organised and managed the 2022 World Cup in Qatar | FIFA was involved in investigating corruption allegations related to Qatar's bid for hosting the World Cup | The 2022 FIFA World Cup was hosted by Qatar, a country that faced criticism over various issues | Qatar successfully hosted the 2022 FIFA World Cup and faced scrutiny over its bid process. | Qatar hosted the 2022 FIFA World Cup and faced criticism from FIFA regarding labor practices. | Qatar won the bid to host the 2022 FIFA World Cup after a competitive process involving other nations. | FIFA approved a smaller number of stadiums due to growing costs in Qatar and is responsible for organizing the FIFA World Cup, which was hosted by the nation. | The 2022 FIFA World Cup was hosted by Qatar, facing criticism over various issues",
+      "description": "Qatar won the bid to host the 2022 FIFA World Cup after a competitive process involving other nations. | FIFA organised and managed the 2022 World Cup in Qatar | Qatar successfully hosted the 2022 FIFA World Cup and faced scrutiny over its bid process. | FIFA was involved in investigating corruption allegations related to Qatar's bid for hosting the World Cup | FIFA approved a smaller number of stadiums due to growing costs in Qatar and is responsible for organizing the FIFA World Cup, which was hosted by the nation. | Qatar hosted the 2022 FIFA World Cup and faced criticism from FIFA regarding labor practices. | The 2022 FIFA World Cup was hosted by Qatar, facing criticism over various issues | The 2022 FIFA World Cup was hosted by Qatar, a country that faced criticism over various issues",
       "weight": 8,
       "source": "QATAR",
       "target": "FIFA"
     },
     {
-      "description": "The 2022 FIFA World Cup was held in various stadiums across Qatar, including Lusail Iconic Stadium. | The 2022 FIFA World Cup was held in various stadiums across Qatar, including Khalifa International Stadium and Al Bayt Stadium. | Qatar hosted the 2022 FIFA World Cup in various stadiums across the country | Al Bayt Stadium, Al Khor was one of the venues for matches involving Senegal and other teams from Group A",
+      "description": "The 2022 FIFA World Cup was held in various stadiums across Qatar, including Lusail Iconic Stadium. | Qatar hosted the 2022 FIFA World Cup in various stadiums across the country | Al Bayt Stadium, Al Khor was one of the venues for matches involving Senegal and other teams from Group A | The 2022 FIFA World Cup was held in various stadiums across Qatar, including Khalifa International Stadium and Al Bayt Stadium.",
       "weight": 4,
       "source": "QATAR",
       "target": "STADIUM"
     },
     {
-      "description": "Al Bayt Stadium was one of the venues used for the 2022 FIFA World Cup hosted by Qatar | Al Bayt Stadium is located in Al Rayyan, one of the Qatari cities where stadiums were built or renovated for the World Cup. | Al Bayt Stadium is located in Qatar and hosted matches for the 2022 FIFA World Cup",
+      "description": "Al Bayt Stadium was one of the venues used for the 2022 FIFA World Cup hosted by Qatar | Al Bayt Stadium is located in Qatar and hosted matches for the 2022 FIFA World Cup | Al Bayt Stadium is located in Al Rayyan, one of the Qatari cities where stadiums were built or renovated for the World Cup.",
       "weight": 3,
       "source": "QATAR",
       "target": "AL BAYT STADIUM"
     },
     {
-      "description": "Khalifa International Stadium was used for matches during the 2022 World Cup hosted by Qatar and remained unmodified after the tournament. | Khalifa International Stadium was renovated for the World Cup in Qatar as part of the country's preparations for hosting the tournament. | Khalifa International Stadium also served as a venue for the 2022 FIFA World Cup in Qatar",
+      "description": "Khalifa International Stadium was renovated for the World Cup in Qatar as part of the country's preparations for hosting the tournament. | Khalifa International Stadium also served as a venue for the 2022 FIFA World Cup in Qatar | Khalifa International Stadium was used for matches during the 2022 World Cup hosted by Qatar and remained unmodified after the tournament.",
       "weight": 3,
       "source": "QATAR",
       "target": "KHALIFA INTERNATIONAL STADIUM"
     },
     {
-      "description": "Al Thumama Stadium was used for matches during the 2021 FIFA Arab Cup hosted by Qatar. | Al Thumama Stadium was another stadium used during the 2022 FIFA World Cup hosted by Qatar",
+      "description": "Al Thumama Stadium was another stadium used during the 2022 FIFA World Cup hosted by Qatar | Al Thumama Stadium was used for matches during the 2021 FIFA Arab Cup hosted by Qatar.",
       "weight": 2,
       "source": "QATAR",
       "target": "AL THUMAMA STADIUM"
@@ -1159,7 +1159,7 @@
       "target": "LUSAIL STADIUM"
     },
     {
-      "description": "Stadium 974 is one of the venues that hosted matches during the 2022 FIFA World Cup in Qatar | Stadium 974 was used for matches during the 2021 FIFA Arab Cup hosted by Qatar and may not be dismantled after the tournament.",
+      "description": "Stadium 974 was used for matches during the 2021 FIFA Arab Cup hosted by Qatar and may not be dismantled after the tournament. | Stadium 974 is one of the venues that hosted matches during the 2022 FIFA World Cup in Qatar",
       "weight": 2,
       "source": "QATAR",
       "target": "STADIUM 974"
@@ -1183,7 +1183,7 @@
       "target": "STADIUMS"
     },
     {
-      "description": "The FIFA Executive Committee selected Qatar as the host nation for the 2022 World Cup after a competitive bidding process. | The FIFA Executive Committee selected Qatar as the host nation for the 2022 World Cup after a competitive bidding process involving other nations like Indonesia and Japan. | The FIFA Executive Committee made a decision that directly impacted Qatar as it was selected as the host nation for the 2022 World Cup.",
+      "description": "The FIFA Executive Committee made a decision that directly impacted Qatar as it was selected as the host nation for the 2022 World Cup. | The FIFA Executive Committee selected Qatar as the host nation for the 2022 World Cup after a competitive bidding process involving other nations like Indonesia and Japan. | The FIFA Executive Committee selected Qatar as the host nation for the 2022 World Cup after a competitive bidding process.",
       "weight": 3,
       "source": "QATAR",
       "target": "FIFA_EXECUTIVE_COMMITTEE"
@@ -1279,7 +1279,7 @@
       "target": "PETER HARGITAY"
     },
     {
-      "description": "The Guardian reported on labor conditions for workers building infrastructure for the 2022 World Cup in Qatar. | The Guardian published an article surveying workers on their experiences and conditions working on infrastructure for the 2022 World Cup in Qatar, highlighting human rights concerns. | The Guardian reported on the controversial decision to host the 2022 World Cup in Qatar and its impact on workers' rights. | The Guardian reported on labor issues and worker rights in Qatar, including those related to the 2022 World Cup infrastructure project. | The Guardian reported on the human rights record of Qatar in relation to the 2022 World Cup infrastructure project and labor conditions.",
+      "description": "The Guardian reported on the human rights record of Qatar in relation to the 2022 World Cup infrastructure project and labor conditions. | The Guardian reported on labor issues and worker rights in Qatar, including those related to the 2022 World Cup infrastructure project. | The Guardian published an article surveying workers on their experiences and conditions working on infrastructure for the 2022 World Cup in Qatar, highlighting human rights concerns. | The Guardian reported on the controversial decision to host the 2022 World Cup in Qatar and its impact on workers' rights. | The Guardian reported on labor conditions for workers building infrastructure for the 2022 World Cup in Qatar.",
       "weight": 5,
       "source": "QATAR",
       "target": "THE GUARDIAN"
@@ -1333,7 +1333,7 @@
       "target": "JACK WARNER"
     },
     {
-      "description": "Both nations were investigated for potential corruption in the bidding process, with Garcia's report clearing both of direct bribery but noting their rule-testing behavior | Both countries were bidders for hosting the 2018 and 2022 FIFA World Cups, facing similar corruption allegations",
+      "description": "Both countries were bidders for hosting the 2018 and 2022 FIFA World Cups, facing similar corruption allegations | Both nations were investigated for potential corruption in the bidding process, with Garcia's report clearing both of direct bribery but noting their rule-testing behavior",
       "weight": 2,
       "source": "QATAR",
       "target": "RUSSIA"
@@ -1405,7 +1405,7 @@
       "target": "RASMUS TANTHOLDT"
     },
     {
-      "description": "Qatar's security forces tried to manage the situation involving these supporters, but faced challenges in balancing freedom of expression with public order. | Qatari officials tried to suppress any filming or photography of possible protests, including detaining Tantholdt for his work.",
+      "description": "Qatari officials tried to suppress any filming or photography of possible protests, including detaining Tantholdt for his work. | Qatar's security forces tried to manage the situation involving these supporters, but faced challenges in balancing freedom of expression with public order.",
       "weight": 2,
       "source": "QATAR",
       "target": "PRO-GOVERNMENT SUPPORTERS"
@@ -1507,7 +1507,7 @@
       "target": "TEAM"
     },
     {
-      "description": "FIFA organises and manages this specific edition of the World Cup | FIFA organised and managed the 2022 World Cup, dealing with various incidents during its hosting",
+      "description": "FIFA organised and managed the 2022 World Cup, dealing with various incidents during its hosting | FIFA organises and manages this specific edition of the World Cup",
       "weight": 2,
       "source": "2022 FIFA WORLD CUP",
       "target": "FIFA"
@@ -1561,19 +1561,19 @@
       "target": "COMPETITION"
     },
     {
-      "description": "The tournament was contested by 32 teams, with France as the defending champions. | The tournament was contested by 32 teams, with France as the defending champions",
+      "description": "The tournament was contested by 32 teams, with France as the defending champions | The tournament was contested by 32 teams, with France as the defending champions.",
       "weight": 2,
       "source": "FIFA",
       "target": "TEAM"
     },
     {
-      "description": "The tournament set a record for the highest number of goals scored, with every participating team scoring at least one goal. | The tournament set a record for the highest number of goals scored, with every participating team scoring at least one goal",
+      "description": "The tournament set a record for the highest number of goals scored, with every participating team scoring at least one goal | The tournament set a record for the highest number of goals scored, with every participating team scoring at least one goal.",
       "weight": 2,
       "source": "FIFA",
       "target": "EVENT"
     },
     {
-      "description": "The final match of the 2022 FIFA World Cup was held at Lusail Stadium, a venue managed by FIFA | FIFA is responsible for organizing the construction and completion of Lusail Stadium, which was built for the FIFA World Cup in Qatar.",
+      "description": "FIFA is responsible for organizing the construction and completion of Lusail Stadium, which was built for the FIFA World Cup in Qatar. | The final match of the 2022 FIFA World Cup was held at Lusail Stadium, a venue managed by FIFA",
       "weight": 2,
       "source": "FIFA",
       "target": "LUSAIL STADIUM"
@@ -2023,13 +2023,13 @@
       "target": "SPAIN"
     },
     {
-      "description": "Australia defeated Tunisia 1–0 to advance as runners-up in Group D. | Tunisia beat Australia 1-0 in a match held at Al Janoub Stadium, part of Group E in the 2022 FIFA World Cup",
+      "description": "Tunisia beat Australia 1-0 in a match held at Al Janoub Stadium, part of Group E in the 2022 FIFA World Cup | Australia defeated Tunisia 1–0 to advance as runners-up in Group D.",
       "weight": 2,
       "source": "AUSTRALIA",
       "target": "TUNISIA"
     },
     {
-      "description": "Australia defeated Poland 3–0 in their match, securing second place in Group D behind France. | Australia defeated Poland 3–0 in the group stage, securing second place in Group D.",
+      "description": "Australia defeated Poland 3–0 in the group stage, securing second place in Group D. | Australia defeated Poland 3–0 in their match, securing second place in Group D behind France.",
       "weight": 2,
       "source": "AUSTRALIA",
       "target": "POLAND"
@@ -2191,7 +2191,7 @@
       "target": "GROUP F"
     },
     {
-      "description": "Uruguay and Portugal both advanced to the knockout stage but Portugal finished first in their group with more points and goals. | Portugal defeated Uruguay 2–0, advancing Portugal to the knockout stage",
+      "description": "Portugal defeated Uruguay 2–0, advancing Portugal to the knockout stage | Uruguay and Portugal both advanced to the knockout stage but Portugal finished first in their group with more points and goals.",
       "weight": 2,
       "source": "PORTUGAL",
       "target": "URUGUAY"
@@ -2203,7 +2203,7 @@
       "target": "GROUP H"
     },
     {
-      "description": "The Supreme Committee for Delivery and Legacy is responsible for organizing the 2022 FIFA World Cup in Qatar | The Supreme Committee for Delivery and Legacy is responsible for organizing the 2022 FIFA World Cup, which included measures like sobering-up zones in response to alcohol consumption concerns",
+      "description": "The Supreme Committee for Delivery and Legacy is responsible for organizing the 2022 FIFA World Cup, which included measures like sobering-up zones in response to alcohol consumption concerns | The Supreme Committee for Delivery and Legacy is responsible for organizing the 2022 FIFA World Cup in Qatar",
       "weight": 2,
       "source": "SUPREME_COMMITTEE_FOR_DELIVERY_AND_LEGACY",
       "target": "FIFA_WORLD_CUP_2022"
@@ -2299,7 +2299,7 @@
       "target": "QATAR INTERNATIONAL STADIUM"
     },
     {
-      "description": "Journalists from Iran International were denied entry to cover the 2022 FIFA World Cup at Qatar International Stadium due to their critical stance towards the regime, indicating a potential conflict of interest between the two entities. | The stadium security forces' actions against Iranian fans could have been influenced by the Qatari government's decision to revoke visas for journalists from this news channel, indicating a possible connection between the two entities in terms of the 2022 FIFA World Cup.",
+      "description": "The stadium security forces' actions against Iranian fans could have been influenced by the Qatari government's decision to revoke visas for journalists from this news channel, indicating a possible connection between the two entities in terms of the 2022 FIFA World Cup. | Journalists from Iran International were denied entry to cover the 2022 FIFA World Cup at Qatar International Stadium due to their critical stance towards the regime, indicating a potential conflict of interest between the two entities.",
       "weight": 2,
       "source": "QATAR INTERNATIONAL STADIUM",
       "target": "IRAN INTERNATIONAL"
